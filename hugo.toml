@@ -1,0 +1,7 @@
+baseURL = 'https://urandom9810.github.io'
+languageCode = 'zh-CN'
+title = 'URANDOM9810的博客'
+theme = 'PaperMod'
+[caches]
+ [caches.images]
+  dir = ':cacheDir/images'
