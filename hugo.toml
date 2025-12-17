@@ -1,6 +1,6 @@
 baseURL = 'https://urandom9810.github.io'
 languageCode = 'zh-CN'
-title = 'URANDOM9810的博客'
+title = 'URANDOM9810 Blog'
 theme = 'PaperMod'
 [caches]
  [caches.images]
